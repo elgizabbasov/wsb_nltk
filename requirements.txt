@@ -1,0 +1,4 @@
+praw
+re
+matplotlib
+python-dotenv
